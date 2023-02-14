@@ -1,4 +1,4 @@
-Date;Time;Operation Mode;System Status;Flow [m3/h] W1-BF1;Flow [m³/h] W3-BF1 OR HW VFD Speed [Hz];Inlet Pressure [Bar];Outlet Pressure [Bar];Diff. Pressure [Bar];Uv Unit Temperature [C];Uv-I Sensor [W/m2];Total Lamp Pwr [kW];Calculated [m3];ByPass;Alarm;Flow Limit;Allowed Flow [m3];FullTime
+Date;Time;Operation Mode;System Status;Flow [m³/h] W1-BF1;Flow [m³/h] W3-BF1 OR HW VFD Speed [Hz];Inlet Pressure [Bar];Outlet Pressure [Bar];Diff. Pressure [Bar];Uv Unit Temperature [°C];Uv-I Sensor [W/m²];Total Lamp Pwr [kW];Calculated [m³];ByPass;Alarm;Flow Limit;Allowed Flow [m³];FullTime
 02-01-2023;00:01:48;System Idle;system Idle;0;0;2,91;2,9;0,01;26,1;1;0;1434,2;System In Line;System Ok;500;35;02-01-2023 00:01:48
 02-01-2023;00:06:49;System Idle;system Idle;0;0;2,92;2,91;0,01;26,1;1;0;1434,2;System In Line;System Ok;500;35;02-01-2023 00:06:49
 02-01-2023;00:11:49;System Idle;system Idle;0;0;2,92;2,91;0,01;26,1;1;0;1434,2;System In Line;System Ok;500;35;02-01-2023 00:11:49
